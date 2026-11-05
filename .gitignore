@@ -1,0 +1,10 @@
+node_modules/
+*.jks
+*.keystore
+keystore.properties
+notea-release.jks.base64.txt
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+.idea/
